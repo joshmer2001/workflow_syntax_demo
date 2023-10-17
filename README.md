@@ -1,2 +1,2 @@
-# **Workflow Syntax Demo**
+# *Workflow Syntax Demo*
 
